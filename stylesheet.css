@@ -6,21 +6,21 @@ a:hover{
 }
 #maintext{
 	color:#000aaa; 
-	background-color:#aaa; 
+	background-color:#efefef; 
 	font-family: 'Josefin Sans', sans-serif; 
 	margin-left: 50px; 
 	width: 900px; 
 	padding: 5px;
 }
 body{
-	background: #aaa;
+	background: #efefef;
 }
 li{
 	margin-top: 5px;
 }
 .list1{
 	font-style: italic;
-	color: #aaa;
+	color: #efefef;
 }
 .list2{
 	font-family: impact;
