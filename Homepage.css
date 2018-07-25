@@ -1,0 +1,41 @@
+a{
+	color:blue;
+}
+a:hover{
+	color: skyblue;
+}
+#maintext{
+	color:#000aaa; 
+	background-color:#efefef; 
+	font-family: 'Josefin Sans', sans-serif; 
+	margin-left: 50px; 
+	width: 900px; 
+	padding: 5px;
+}
+body{
+	background: #efefef;
+}
+li{
+	margin-top: 5px;
+}
+.list1{
+	font-style: italic;
+	color: #efefef;
+}
+.list2{
+	font-family: impact;
+	text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+.Paly{
+	position: fixed;
+	left: 1000px;
+	top: 10px;
+	margin-bottom: 20px;
+}
+.Gunn{
+	position: fixed;
+	left: 1000px;
+	top: 40px;
+	margin-top: 20px;
+}
+

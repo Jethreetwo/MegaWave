@@ -26,16 +26,55 @@ li{
 	font-family: impact;
 	text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
 }
+.sponsors{
+	top:40px;
+	left: 1000px;
+	position: fixed;
+}
 .Paly{
 	position: fixed;
 	left: 1000px;
-	top: 10px;
+	top: 80px;
 	margin-bottom: 20px;
 }
-.Gunn{
+.Google{
 	position: fixed;
 	left: 1000px;
-	top: 40px;
-	margin-top: 20px;
+	top: 80px;
+	margin-bottom: 20px;	
+}
+.navbar {
+  color: #306bc9;
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 0px;
+  background-color: #4a5360;
+  position: sticky;
+}
+
+.second {
+  padding: 5px 5px 5px 5px
+  background-color: #4a5360;
+}
+.first {
+  font-size: 30px;
+  letter-spacing: 3px;
+  color: orange;
+  text-align: left;
+}
+a {
+  color: #e8ebef;
+  margin-left: 80px;
+  text-decoration: none;
+}
+a:hover {
+  color: #cacdd1;
+}
+a.first:hover {
+  color: #d38e0e;
+}
+a.first {
+  margin-left: 5px !important;
+  padding-left: 0px !important;
 }
 
