@@ -4,13 +4,18 @@
   position: fixed;
   top: 0;
 }
-h2 {
+ul {
   color: #306bc9;
   text-align: center;
-  margin-top: 0px;
-  padding-top: 0px;
   background-color: #4a5360;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  padding-right: 300px;
+  width: 100%;
+  opacity: 0.92;
 }
+
 .first {
   font-size: 30px;
   letter-spacing: 3px;
@@ -18,8 +23,7 @@ h2 {
   text-align: left;
 }
 body {
-  background-color: #e8ebef;
-  background-image: url(back.jpg);
+  background-color: #a8a8a8;
   width: 99.5%;
   margin-right: 0px;
   margin-left: 0px;
@@ -64,4 +68,7 @@ img {
 .fifth {
   padding-right: 300px;
   margin-right: 0px;
+}
+li {
+  display: inline;
 }
