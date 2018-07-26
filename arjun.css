@@ -1,0 +1,62 @@
+body{
+	background-image: url("https://www.welovesolo.com/wp-content/uploads/2014/10/p171mk8ltj19i41m554210ep7gk9-details.jpg");
+	margin: 0px;
+}
+
+.font{
+	color: yellow;
+	font-size: 20px;
+	text-align: left;
+}
+
+h2 {
+  color: #306bc9;
+  text-align: center;
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+  background-color: #4a5360;
+}
+
+.second {
+  padding: 0px 0px 0px 0px
+  background-color: #4a5360;
+}
+.first {
+  font-size: 30px;
+  letter-spacing: 3px;
+  color: orange;
+  text-align: left;
+}
+a {
+  color: #e8ebef;
+  margin-left: 80px;
+  text-decoration: none;
+}
+a:hover {
+  color: #cacdd1;
+}
+a.first:hover {
+  color: #d38e0e;
+}
+a.first {
+  margin-left: 0px !important;
+  padding-left: 0px !important;
+}
+
+.image{
+	width:50%;
+	margin-left: 60px;
+
+}
+
+.image_2{
+	width: 50%;
+	margin-left: 60px;
+}
+
+.stuff{
+	color: blue ;
+	font-size: 30px;
+	margin-left: 20px;
+	font-family: times new roman;
+}
