@@ -19,47 +19,35 @@ a:hover{
   display: inline-block;
 }
 body{
-	background: #efefef;
+	background-color: #efefef;
 }
 li{
 	margin-top: 5px;
 }
-.list1{
-	font-style: italic;
-	color: #efefef;
-}
-.list2{
-	font-family: impact;
-	text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
-}
+
 #navbar{
-  height: 100px;
+  height: 80px;
   width: 100%;
   background-color: #4a5360;
-  padding-bottom: 100px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 .logo {
-  margin-top: 0px;
+  margin-top: -20.5px;
   display: inline-block;
-  height: 100px;
+  height: 65px;
+  margin-bottom: 10px;
   padding-top: 0px;
   background-color: #4a5360;
 }
 
-.second {
-  padding: 5px 5px 5px 5px
-  background-color: #4a5360;
-}
-.first {
+a.nav-link{
   font-size: 30px;
-  letter-spacing: 3px;
-  color: orange;
-  text-align: left;
-}
-a {
-  color: #e8ebef;
-  margin-left: 80px;
+  margin-top: 20px;
+  margin-left: -50px;
+  margin-right: 150px;
   text-decoration: none;
+  transition-duration: 0.7s;
 }
 a:hover {
   color: #cacdd1;
