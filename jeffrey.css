@@ -23,12 +23,12 @@ ul {
   text-align: left;
 }
 body {
-  background-color: #a8a8a8;
+  background-color: #727169;
   width: 99.5%;
   margin-right: 0px;
   margin-left: 0px;
   margin-top: 0px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: Helveticaneue;
   text-shadow: 1px 1px black;
 }
 a {
@@ -53,14 +53,15 @@ h3 {
   font-size: 50px;
   color: #e8ebef;
   margin-top: 0px;
-  margin-left: 40px;
+  margin-left: 140px;
   margin-bottom: 10px;
 }
 .fourth {
-  font-size: 26px;
+  font-size: 20px;
   color: #e8ebef;
   margin-top: 0px;
-  margin-left: 40px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 img {
   margin-left: 20%;
