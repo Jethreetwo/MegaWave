@@ -1,8 +1,8 @@
 .second {
-  padding: 5px 5px 5px 5px
   background-color: #4a5360;
   position: fixed;
   top: 0;
+  padding-top: 5px;
 }
 ul {
   color: #306bc9;
@@ -20,7 +20,6 @@ ul {
   font-size: 30px;
   letter-spacing: 3px;
   color: orange;
-  text-align: left;
 }
 body {
   background-color: #727169;
@@ -34,6 +33,7 @@ body {
 a {
   color: #e8ebef;
   margin-left: 80px;
+  margin-right: 80px;
   text-decoration: none;
 }
 a:hover {
@@ -45,9 +45,6 @@ a.first:hover {
 a.first {
   margin-left: 5px !important;
   padding-left: 0px !important;
-}
-h3 {
-  font-size: 50px;
 }
 .third {
   font-size: 50px;
@@ -72,14 +69,5 @@ img {
 }
 li {
   display: inline;
-}
-video {
-  margin-left: 20%;
-}
-.seventh {
-  font-size: 30px;
-  color: #e8ebef;
-  margin-top: 0px;
-  margin-left: 150px;
-  margin-right: 150px;
+  font-size: 20px;
 }
