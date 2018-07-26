@@ -1,8 +1,8 @@
 .second {
-  padding: 5px 5px 5px 5px
   background-color: #4a5360;
   position: fixed;
   top: 0;
+  padding-top: 5px;
 }
 h2 {
   color: #306bc9;
@@ -10,6 +10,8 @@ h2 {
   margin-top: 0px;
   padding-top: 0px;
   background-color: #4a5360;
+  margin: 0px;
+  padding: 0px;
 }
 .first {
   font-size: 30px;
@@ -20,7 +22,6 @@ h2 {
 body {
   background-color: #e8ebef;
   background-image: url(back.jpg);
-  width: 99.5%;
   margin-right: 0px;
   margin-left: 0px;
   margin-top: 0px;
@@ -30,6 +31,7 @@ body {
 a {
   color: #e8ebef;
   margin-left: 80px;
+  margin-right: 80px;
   text-decoration: none;
 }
 a:hover {
@@ -41,9 +43,6 @@ a.first:hover {
 a.first {
   margin-left: 5px !important;
   padding-left: 0px !important;
-}
-h3 {
-  font-size: 50px;
 }
 .third {
   font-size: 50px;
@@ -61,7 +60,9 @@ h3 {
 img {
   margin-left: 20%;
 }
-.fifth {
-  padding-right: 300px;
-  margin-right: 0px;
+.sixth {
+  margin-right: 0%;
+  padding-right: 0%;
+  margin-left: 0%;
+  padding-left: 0%;
 }
