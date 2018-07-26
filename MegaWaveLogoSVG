@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mega Wave Logo</title>
+	</head>
+	<body>
+		<svg>
+			<path d= "m 200 200 q 100 100 z 150 150">
+		</svg>
+	</body>
+</html>

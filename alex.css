@@ -1,0 +1,41 @@
+		div.banner{
+			width: 100%;
+			opacity: 0.9;
+			background-color: #3a3a3a;
+
+		}
+		h1.mish-state-mint-title{
+			text-align: center;
+			color: #5b5b5b;
+		}
+		.banner-content{
+			color: white;
+			text-align: left;
+			margin-top: 0px;
+			font-size: 50px;
+			padding-left: 20px;
+		}
+
+		p.mish-state-mint{
+			font-size: 30px;
+			text-align: center;
+			color: #5b5b5b;
+		}
+		hr{
+			height: 7px;
+			background-color: #dbdbdb;
+			border: none;
+		}
+		a{
+			text-decoration: underline;
+			color: black;
+			transition-duration: 0.7s;
+		}
+		a:hover{
+			color: gray;
+		}
+
+		body {
+			font-family:helveticaneue;
+			margin: 0px;
+		}
