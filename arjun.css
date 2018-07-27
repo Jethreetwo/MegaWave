@@ -26,7 +26,7 @@ li{
 }
 
 #navbar{
-  height: 120px;
+  height: 110px;
   background-color: #4a5360;
   margin-left: -20px;
   width:120%;
@@ -60,4 +60,23 @@ a.first {
   margin-left: 5px !important;
   padding-left: 0px !important;
 }
+
+.image{
+  width:50%;
+  margin-left: 60px;
+
+}
+
+.image_2{
+  width: 50%;
+  margin-left: 60px;
+}
+
+
+
+
+
+
+
+
 
