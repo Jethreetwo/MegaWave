@@ -29,8 +29,11 @@ li{
   height: 80px;
   width: 100%;
   background-color: #4a5360;
+  margin-left: -20px;
+  padding-right: 40px;
+  margin-top: -20px;
   padding-bottom: 20px;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 .logo {
   margin-top: -20.5px;
@@ -42,7 +45,7 @@ li{
 }
 
 a.nav-link{
-  font-size: 30px;
+  font-size: 20px;
   margin-top: 20px;
   margin-left: -50px;
   margin-right: 150px;
