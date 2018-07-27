@@ -2,7 +2,6 @@
   background-color: #4a5360;
   position: fixed;
   top: 0;
-  padding-top: 5px;
 }
 ul {
   color: #306bc9;
@@ -28,12 +27,11 @@ body {
   margin-left: 0px;
   margin-top: 0px;
   font-family: Helveticaneue;
-  text-shadow: 1px 1px black;
 }
 a {
   color: #e8ebef;
-  margin-left: 80px;
-  margin-right: 80px;
+  margin-left: 6%;
+  margin-right: 6%;
   text-decoration: none;
 }
 a:hover {

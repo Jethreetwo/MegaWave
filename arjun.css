@@ -1,6 +1,7 @@
 body{
 	background-image: url("https://www.welovesolo.com/wp-content/uploads/2014/10/p171mk8ltj19i41m554210ep7gk9-details.jpg");
 	margin: 0px;
+	font-family: Helveticaneue;
 }
 
 .font{
@@ -9,28 +10,30 @@ body{
 	text-align: left;
 }
 
-h2 {
+ul {
   color: #306bc9;
   text-align: center;
-  margin-top: 0px !important;
-  padding-top: 0px !important;
   background-color: #4a5360;
-}
-
-.second {
-  padding: 0px 0px 0px 0px
-  background-color: #4a5360;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  opacity: 0.92;
 }
 .first {
   font-size: 30px;
   letter-spacing: 3px;
   color: orange;
   text-align: left;
+	margin-left: 0px;
+	padding-left: 0px;
 }
+
 a {
   color: #e8ebef;
-  margin-left: 80px;
-  text-decoration: none;
+  margin-left: 6%;
+  margin-right: 6%;
+  text-decoration: none !important;
 }
 a:hover {
   color: #cacdd1;
@@ -58,5 +61,18 @@ a.first {
 	color: blue ;
 	font-size: 30px;
 	margin-left: 20px;
-	font-family: times new roman;
+	font-family: Helveticaneue;
+}
+
+li {
+  display: inline;
+  font-size: 20px;
+  color: #e8ebef;
+}
+
+.second {
+  background-color: #4a5360;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
