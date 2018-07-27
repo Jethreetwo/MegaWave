@@ -1,39 +1,54 @@
+a{
+  color:blue;
+}
+a:hover{
+  color: skyblue;
+}
+#maintext{
+  color: #636363; 
+  background-color:#efefef; 
+  font-family: Helveticaneue, sans-serif; 
+  margin-left: 40px;  
+  padding: 5px;
+  width:1000px;
+}
+.nav-link{
+  color: white;
+  font-family: Helveticaneue;
+  font-size: 20px;
+  display: inline-block;
+}
 body{
-	background-image: url("https://www.welovesolo.com/wp-content/uploads/2014/10/p171mk8ltj19i41m554210ep7gk9-details.jpg");
-	margin: 0px;
-	font-family: Helveticaneue;
+  background-color: #efefef;
+}
+li{
+  margin-top: 5px;
 }
 
-.font{
-	color: yellow;
-	font-size: 20px;
-	text-align: left;
-}
-
-ul {
-  color: #306bc9;
-  text-align: center;
+#navbar{
+  height: 120px;
   background-color: #4a5360;
-  list-style-type: none;
-  margin: 0px;
-  padding: 0px;
-  width: 100%;
-  opacity: 0.92;
+  margin-left: -20px;
+  width:120%;
+  margin-top: -20px;
+  padding-bottom: 20px;
+  padding-top: 10px;
 }
-.first {
-  font-size: 30px;
-  letter-spacing: 3px;
-  color: orange;
-  text-align: left;
-	margin-left: 0px;
-	padding-left: 0px;
+.logo {
+  margin-top: -20.5px;
+  display: inline-block;
+  height: 65px;
+  margin-bottom: 10px;
+  padding-top: 0px;
+  background-color: #4a5360;
 }
-
-a {
-  color: #e8ebef;
-  margin-left: 6%;
-  margin-right: 6%;
-  text-decoration: none !important;
+a.nav-link{
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: -50px;
+  margin-right: 150px;
+  text-decoration: none;
+  transition-duration: 0.7s;
 }
 a:hover {
   color: #cacdd1;
@@ -42,37 +57,7 @@ a.first:hover {
   color: #d38e0e;
 }
 a.first {
-  margin-left: 0px !important;
+  margin-left: 5px !important;
   padding-left: 0px !important;
 }
 
-.image{
-	width:50%;
-	margin-left: 60px;
-
-}
-
-.image_2{
-	width: 50%;
-	margin-left: 60px;
-}
-
-.stuff{
-	color: blue ;
-	font-size: 30px;
-	margin-left: 20px;
-	font-family: Helveticaneue;
-}
-
-li {
-  display: inline;
-  font-size: 20px;
-  color: #e8ebef;
-}
-
-.second {
-  background-color: #4a5360;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
