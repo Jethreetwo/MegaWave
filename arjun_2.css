@@ -5,8 +5,17 @@ body{
   font-family: Helveticaneue !important;
 }
 
+.logo {
+  margin-top: -20.5px;
+  display: inline-block;
+  height: 65px;
+  margin-bottom: 5px;
+  padding-top: 30px;
+  background-color: #4a5360;
+}
+
 .font{
-  color: #784bc6;
+  color: #784bc6 !important;
   font-size: 20px;
   text-align: center;
 }
@@ -25,6 +34,8 @@ h2 {
   top: 0;
   padding-top: 5px;
   width: 100%;
+  z-index:1;
+  margin-bottom: -5px;
 }
 
 .first {
@@ -59,23 +70,23 @@ a.first {
 table{
   text-align: left;
   font-size: 20px;
-  color: #784bc6;
+  color: #784bc6 !important;
 }
 
 td{
   border: solid 5px #784bc6;
 }
 
-.center{
-  text-align: center !important;
-  font-size: 30px !important;
-}
-
 li {
   display: inline;
   font-size: 20px;
-  color: #e8ebef;
 }
 ul {
   width: 100%;
+}
+
+.center{
+  text-align: center !important;
+  font-size: 30px !important;
+  color: #784bc6 !important;
 }
